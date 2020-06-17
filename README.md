@@ -1,5 +1,5 @@
 # Cart
-Create a database with the fowlloing name 
+Create a database with the following name 
 
 'mysql'
 
